@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdullahakb5" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahakb5?logo=twitter&style=for-the-badge" alt="abdullahakb5" /></a> </p>
 
-- 🔭 I’m currently working on **Khareed_Online**
+- 🔭 I’m currently working on **Device Daily**
 
 - 🌱 I’m currently learning **Data Analytics,ML**
 
